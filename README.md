@@ -1,4 +1,4 @@
-# leukemia-classification
+# Leukemia Classification
 
 ## Slimming Down the Gene Pool: A Lean Approach to Leukemia Classification
 
